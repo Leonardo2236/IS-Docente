@@ -1,4 +1,4 @@
-Projeto de Automação de Indicações e Substituições Docentes
+Projeto de Automação de Indicações e Substituições Docentes desenvolvido para a área acadêmica de Pós-Graduação EAD
 
 📱 Aplicativo Power Apps
 
@@ -57,3 +57,7 @@ Esse projeto integrou de forma eficiente o Power Apps e Power BI para melhorar o
 Essa é a página inicial do aplicativo desenvolvido no Power apps
 
 ![Capa_ISdocente](./is_docente_capa.png)
+
+Esse é o painel de visualização no PBI em tempo real das indicações e substuituições docentes
+
+![Dash_ISdocente](./Dash_ISdocente.png)
