@@ -54,4 +54,6 @@ OneDrive
 
 Esse projeto integrou de forma eficiente o Power Apps e Power BI para melhorar o fluxo de indicações docentes, proporcionando uma experiência de acompanhamento detalhada e intuitiva.
 
+Essa é a página inicial do aplicativo desenvolvido no Power apps
+
 ![Capa_ISdocente](./is_docente_capa.png)
